@@ -1,0 +1,29 @@
+@import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css");
+ul {
+  list-style: none;
+  display: inline-block;
+}
+li {
+  display: inline-block;
+}
+a {
+  border-radius: 50%;
+  background-color: lightgrey;
+  padding: 10px;
+  color: black;
+}
+.fc:hover {
+  color: blue;
+}
+.tw:hover {
+  color: lightblue;
+}
+.go:hover {
+  color: red;
+}
+.in:hover {
+  color: rgb(12, 150, 214);
+}
+.is:hover {
+  color: grey;
+}

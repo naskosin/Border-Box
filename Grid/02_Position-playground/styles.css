@@ -1,0 +1,35 @@
+@import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css");
+
+.viewport{
+  height: 100vh;
+ position: relative;
+}
+
+
+.viewport:first-of-type{
+  background-image: linear-gradient(to right, blue, lightblue, turquoise);
+
+
+}
+.viewport:last-of-type{
+  background-image: linear-gradient(to right, #fa4eab, orange, yellow);
+
+
+
+  
+}
+
+.viewport .card img {
+ width: 100%;
+
+}
+.viewport .card{
+width: 20vw;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%)
+}
+.viewport i {
+position: absolute;
+}

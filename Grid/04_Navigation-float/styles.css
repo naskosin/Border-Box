@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(238, 238, 238)
+}
+header>p{
+    display:inline-block;
+vertical-align: bottom;
+}
+header>ul{
+    list-style-type: none;
+    display:inline-block;
+
+}
+header>ul>li{
+    display:inline-block;
+
+}
+aside{
+    display:inline-block;
+width:20%;
+vertical-align: top;
+}
+article{
+    width:70%;
+    display:inline-block;
+}
+a{
+    color:rgb(0, 102, 0);
+}
+blockquote{
+    font-family: Georgia, serif;
+float: right;
+    
+width: 40%;
+
+    letter-spacing: 1px;
+    padding-left: 0px;
+    vertical-align: top;
+    border-left: solid 2px gray;
+}
+
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+}
+div.img1{
+    float: right;
+  background-color:rgb(255, 255, 255) ;
+  box-shadow: rgba(0, 0, 0, 0.25) ;
+  border: solid 5px black;
+
+}
+div.img2{
+float: left;
+background-color:rgb(255, 255, 255) ;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.25) ;
+  border: solid 5px black;
+}
+.img1 img{
+    padding: 5px;
+    vertical-align: middle;
+}
+.img2 img{
+    padding: 5px;
+    
+}

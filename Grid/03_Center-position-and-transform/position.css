@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(238, 238, 238) ;
+}
+button{
+    background-color: rgb(0, 153, 0) ;
+}
+.card{
+    background-color:rgb(255, 255, 255);
+    height:40%;
+    width:40%;
+    margin: 0 auto;
+}
+h1{
+    font-family:Georgia, serif  ;
+    font-size:1em;
+    display:block;
+    width:auto;
+}
+div{
+    width:100%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+img{
+    display: block;
+    width:100%;
+    position:absolute;
+    top: 0;
+    left: 0;
+}
